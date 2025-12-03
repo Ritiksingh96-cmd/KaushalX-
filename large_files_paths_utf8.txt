@@ -1,0 +1,5 @@
+﻿R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\cache\webpack\client-production\0.pack
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\cache\webpack\client-production\1.pack
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\cache\webpack\server-production\0.pack
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\cache\webpack\server-production\1.pack
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node

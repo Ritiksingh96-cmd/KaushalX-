@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SkillSwap - Barter Your Skills with AI-Powered Matching</title>
+
+    <!-- Standard SEO Meta Tags -->
+    <meta name="description" content="SkillSwap is a revolutionary skill exchange platform that uses AI matching, credits, and gamification to connect people for barter-based skill sharing." />
+    <meta name="author" content="SkillSwap Team" />
+    <link rel="canonical" href="https://ge-platform-4qv0-alphaproject.netlify.app" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <!-- Open Graph (Facebook, LinkedIn, etc.) -->
+    <meta property="og:title" content="SkillSwap - Barter Your Skills with AI-Powered Matching" />
+    <meta property="og:description" content="SkillSwap is a revolutionary skill exchange platform that uses AI matching, credits, and gamification to connect people for barter-based skill sharing." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ge-platform-4qv0-alphaproject.netlify.app" />
+    <meta property="og:image" content="https://d33wubrfki0l68.cloudfront.net/68c54b67087a56d8ef27be3d/screenshot_2025-09-13-10-46-50-0000.webp" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="SkillSwap platform connecting people through skill exchange" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="SkillSwap - Barter Your Skills with AI-Powered Matching" />
+    <meta name="twitter:description" content="SkillSwap is a revolutionary skill exchange platform that uses AI matching, credits, and gamification to connect people for barter-based skill sharing." />
+    <meta name="twitter:site" content="@skillswapapp" />
+    <meta name="twitter:image" content="https://d33wubrfki0l68.cloudfront.net/68c54b67087a56d8ef27be3d/screenshot_2025-09-13-10-46-50-0000.webp" />
+
+    <!-- JSON-LD for Rich Snippets -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "SkillSwap",
+      "url": "https://ge-platform-4qv0-alphaproject.netlify.app",
+      "description": "SkillSwap is a revolutionary skill exchange platform that uses AI matching, credits, and gamification to connect people for barter-based skill sharing.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "SkillSwap Team"
+      }
+    }
+    </script>
+  </head>
+  <body>
+    <!-- This is the entry point for your React application -->
+    <div id="root"></div>
+    
+    <!-- The main script for your application -->
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

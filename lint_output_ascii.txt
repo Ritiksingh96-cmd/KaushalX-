@@ -1,0 +1,873 @@
+
+> my-v0-project@0.1.0 lint
+> eslint .
+
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\achievements\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\admin\dashboard\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\admin\analytics\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\admin\logs\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\ai\help\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\auth\[...nextauth]\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\auth\register\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\badges\award\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\badges\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\chat\messages\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\chat\rooms\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\chat\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\chat\video-call\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\comments\[postId]\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\credits\award\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\credits\balance\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\credits\convert\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\credits\earn\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\credits\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\credits\stats\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\credits\transactions\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\dashboard\analytics\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\earnings\dashboard\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\jobs\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\matching\find-matches\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\matching\skill-sos\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\messages\[conversationId]\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\messages\conversations\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\payment\crypto\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\skills\create\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\test-db\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\upload\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\user\profile\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\users\profile\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\videos\[id]\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\videos\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\api\videos\upload\route.ts
+    7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  328:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  331:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  332:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  341:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\auth\signin\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\auth\signup\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\chat\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\community\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\contact\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\create-skill\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\credits\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\crypto\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\dashboard\matches\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\dashboard\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\earnings\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\forums\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\help\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\jobs\create\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\jobs\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\library\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\library\upload\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\marketplace\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\messages\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\payment\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\payment\success\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\profile\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\settings\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\videos\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\videos\upload\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\app\wallet\page.ts
+   7:30  error    Prefer using the primitive `object` as a type name, rather than the upper-cased `Object`  @typescript-eslint/no-wrapper-object-types
+  69:42  warning  '_M' is defined but never used                                                            @typescript-eslint/no-unused-vars
+  72:15  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  73:16  warning  'T' is defined but never used                                                             @typescript-eslint/no-unused-vars
+  78:22  warning  '_' is defined but never used                                                             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\.next\types\validator.ts
+   53:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+   56:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+   62:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+   65:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+   71:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+   74:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+   80:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+   83:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+   89:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+   92:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+   98:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  101:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  107:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  110:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  116:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  119:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  125:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  128:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  134:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  137:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  143:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  146:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  152:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  155:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  161:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  164:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  170:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  173:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  179:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  182:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  188:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  191:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  197:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  200:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  206:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  209:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  215:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  218:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  224:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  227:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  233:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  236:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  242:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  245:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  251:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  254:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  260:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  263:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  269:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  272:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  278:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  281:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  287:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  290:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  296:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  299:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  305:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  308:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  314:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  317:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  323:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  326:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  332:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  335:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  341:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  344:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  350:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  353:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  359:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  362:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  368:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  371:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  377:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  380:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  386:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  389:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  395:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  398:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  404:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  407:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  413:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  416:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  422:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  425:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  431:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  434:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  440:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  443:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  449:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  452:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  458:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  461:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  467:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  470:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  476:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  479:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  485:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  488:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  494:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  497:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  503:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  506:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  512:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  515:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  521:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  524:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  530:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  533:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  539:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  542:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  548:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  551:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  557:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  560:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  566:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  569:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  575:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  578:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  584:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  587:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  593:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  596:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  602:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  605:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  611:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  614:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  620:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  623:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+  633:9  warning  'handler' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  636:8  warning  '__Unused' is defined but never used                   @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\admin\dashboard\page.tsx
+  110:9  warning  'COLORS' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\admin\analytics\route.ts
+  5:27  warning  'request' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\ai\help\route.ts
+  63:60  warning  'context' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\auth\register\route.ts
+  69:13  warning  'password' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\badges\route.ts
+  45:28  warning  'request' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\chat\rooms\route.ts
+   5:27  warning  'request' is defined but never used           @typescript-eslint/no-unused-vars
+  59:28  warning  'skillId' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\credits\balance\route.ts
+  7:27  warning  'request' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\credits\stats\route.ts
+  8:27  warning  'request' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\dashboard\analytics\route.ts
+  9:27  warning  'request' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\earnings\dashboard\route.ts
+  5:27  warning  'request' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\messages\conversations\route.ts
+  7:27  warning  'request' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\user\profile\route.ts
+  43:13  warning  'password' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  67:13  warning  'password' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\api\users\profile\route.ts
+  23:27  warning  'request' is defined but never used            @typescript-eslint/no-unused-vars
+  36:13  warning  'password' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  60:13  warning  'password' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\chat\page.tsx
+  147:17  warning  'session' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\community\page.tsx
+  10:24  warning  'Filter' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\create-skill\page.tsx
+  18:17  warning  'session' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\credits\page.tsx
+  4:14  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\crypto\page.tsx
+  5:14  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\help\page.tsx
+  61:10  warning  'selectedCategory' is assigned a value but never used     @typescript-eslint/no-unused-vars
+  61:28  warning  'setSelectedCategory' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\layout.tsx
+   11:10  warning  'AIChatTrigger' is defined but never used                                                                                       @typescript-eslint/no-unused-vars
+   15:14  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+  116:14  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\library\page.tsx
+  4:16  warning  'CardContent' is defined but never used  @typescript-eslint/no-unused-vars
+  7:16  warning  'TabsContent' is defined but never used  @typescript-eslint/no-unused-vars
+  8:47  warning  'Filter' is defined but never used       @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\library\upload\page.tsx
+  2:10  warning  'MainHeader' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\marketplace\page.tsx
+  166:7   warning  'useOptimizedSearch' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  193:17  warning  'session' is assigned a value but never used             @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\page.tsx
+  5:17   warning  'MessageCircle' is defined but never used    @typescript-eslint/no-unused-vars
+  5:32   warning  'Star' is defined but never used             @typescript-eslint/no-unused-vars
+  5:102  warning  'BookOpen' is defined but never used         @typescript-eslint/no-unused-vars
+  6:8    warning  'HeroSceneLoader' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\payment\page.tsx
+  109:17  warning  'session' is assigned a value but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-unused-vars
+  133:7   error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\payment\page.tsx:133:7
+  131 |     const method = cryptoMethods.find((m) => m.symbol === paymentRequest.currency)
+  132 |     if (method) {
+> 133 |       setSelectedMethod(method)
+      |       ^^^^^^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  134 |       setPaymentAmount(paymentRequest.amount.toString())
+  135 |     }
+  136 |   }, [paymentRequest.currency, paymentRequest.amount])  react-hooks/set-state-in-effect
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\app\payment\success\page.tsx
+  23:9  warning  'router' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\3d\hero-scene-loader.tsx
+  15:5  error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\3d\hero-scene-loader.tsx:15:5
+  13 |   const [mounted, setMounted] = useState(false);
+  14 |   useEffect(() => {
+> 15 |     setMounted(true);
+     |     ^^^^^^^^^^ Avoid calling setState() directly within an effect
+  16 |   }, []);
+  17 |
+  18 |   if (!mounted) return null;  react-hooks/set-state-in-effect
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\3d\hero-scene.tsx
+  4:40  warning  'ThreeText' is defined but never used  @typescript-eslint/no-unused-vars
+  8:39  warning  'text' is defined but never used       @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ai-chat\ai-chatbot.tsx
+  23:46  warning  'onMinimize' is defined but never used   @typescript-eslint/no-unused-vars
+  23:58  warning  'isMinimized' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ai-chat\faq-quick-access.tsx
+  6:51  warning  'Settings' is defined but never used  @typescript-eslint/no-unused-vars
+  6:61  warning  'Zap' is defined but never used       @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\auth\login-form.tsx
+  43:14  warning  'error' is defined but never used  @typescript-eslint/no-unused-vars
+  54:14  warning  'error' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\auth\signup-form.tsx
+  63:14  warning  'error' is defined but never used  @typescript-eslint/no-unused-vars
+  74:14  warning  'error' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\chat\video-call-modal.tsx
+  24:24  warning  'setCallDuration' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\credits\credit-dashboard.tsx
+  151:53  warning  'index' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\credits\crypto-converter.tsx
+  67:14  warning  'error' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\crypto\kushalx-transaction.tsx
+  8:10  warning  'BLOCKCHAIN_CONFIG' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\jobs\skill-sos-list.tsx
+  5:27  warning  'User' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\matching\match-dashboard.tsx
+  40:14  warning  'error' is defined but never used  @typescript-eslint/no-unused-vars
+  65:14  warning  'error' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\matching\skill-sos.tsx
+  48:14  warning  'error' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\messaging\message-list.tsx
+  34:47  warning  'currentUserId' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\navigation\main-header.tsx
+   18:3   warning  'Zap' is defined but never used                       @typescript-eslint/no-unused-vars
+   19:3   warning  'HelpCircle' is defined but never used                @typescript-eslint/no-unused-vars
+   60:10  warning  'isSearching' is assigned a value but never used      @typescript-eslint/no-unused-vars
+  109:9   warning  'rightNavActions' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ui\badge.tsx
+  29:17  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ui\button.tsx
+  56:18  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ui\chart.tsx
+  72:7  warning  '_' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ui\form.tsx
+  170:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ui\input-otp.tsx
+  41:19  error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ui\input-otp.tsx:41:19
+  39 |   const { char, hasFakeCaret, isActive } = inputOTPContext.slots[index]
+  40 |   const [hasMounted, setHasMounted] = useState(false)
+> 41 |   useEffect(() => setHasMounted(true), [])
+     |                   ^^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  42 |
+  43 |   return (
+  44 |     <div  react-hooks/set-state-in-effect
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ui\navigation-menu.tsx
+  119:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ui\sidebar.tsx
+  663:26  error    Error: Cannot call impure function during render
+
+`Math.random` is an impure function. Calling an impure function can produce unstable results that update unpredictably when the component happens to re-render. (https://react.dev/reference/rules/components-and-hooks-must-be-pure#components-and-hooks-must-be-idempotent).
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ui\sidebar.tsx:663:26
+  661 |   // Random width between 50 to 90%.
+  662 |   const width = React.useMemo(() => {
+> 663 |     return `${Math.floor(Math.random() * 40) + 50}%`
+      |                          ^^^^^^^^^^^^^ Cannot call impure function
+  664 |   }, [])
+  665 |
+  666 |   return (  react-hooks/purity
+  770:3   warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             react-refresh/only-export-components
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ui\toggle.tsx
+  45:18  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\ui\use-toast.ts
+  18:7  warning  'actionTypes' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\videos\video-upload.tsx
+  143:14  warning  'error' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\wallet\transaction-history.tsx
+  52:45  warning  'category' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\components\wallet\wallet-connect.tsx
+  33:22  warning  'error' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\fix_routes.ts
+  49:23  warning  'tryBlockRegex' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\hooks\use-toast.ts
+  18:7  warning  'actionTypes' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\legacy_src\components\Header.tsx
+  3:71  warning  'Settings' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\legacy_src\context\AuthContext.tsx
+  23:14  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+  38:39  warning  'password' is defined but never used                                                                                            @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\legacy_src\pages\DashboardPage.tsx
+  38:25  error  Error: Cannot call impure function during render
+
+`Math.random` is an impure function. Calling an impure function can produce unstable results that update unpredictably when the component happens to re-render. (https://react.dev/reference/rules/components-and-hooks-must-be-pure#components-and-hooks-must-be-idempotent).
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\legacy_src\pages\DashboardPage.tsx:38:25
+  36 |     skill: faker.helpers.arrayElement(['Web Development', 'Graphic Design', 'Photography', 'Marketing', 'Language Learning', 'Music Production']),
+  37 |     avatar: `https://images.unsplash.com/photo-${faker.helpers.arrayElement(['1494790108755-2616b612c64e', '1438761681033-6461ffad8d80', '1472099645785-5658abf4ff4e', '1507003211169-0a1dd7228f2d', '1517841905240-472988babdf9', '1534528741775-53994a69daeb'])}?w=150&h=150&fit=crop&crop=face`,
+> 38 |     rating: Number((4 + Math.random()).toFixed(1)),
+     |                         ^^^^^^^^^^^^^ Cannot call impure function
+  39 |     distance: `${faker.number.int({ min: 1, max: 50 })} km away`,
+  40 |     availability: faker.helpers.arrayElement(['Available now', 'Available today', 'Available this week']),
+  41 |     matchScore: faker.number.int({ min: 75, max: 98 }),  react-hooks/purity
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\legacy_src\pages\GamePage.tsx
+  4:25  warning  'Star' is defined but never used   @typescript-eslint/no-unused-vars
+  4:39  warning  'Users' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\legacy_src\pages\HomePage.tsx
+  4:22   warning  'Users' is defined but never used          @typescript-eslint/no-unused-vars
+  4:29   warning  'Zap' is defined but never used            @typescript-eslint/no-unused-vars
+  4:81   warning  'MessageCircle' is defined but never used  @typescript-eslint/no-unused-vars
+  4:102  warning  'BookOpen' is defined but never used       @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\legacy_src\pages\LoginPage.tsx
+  35:14  warning  'err' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\legacy_src\pages\RegisterPage.tsx
+  94:14  warning  'err' is defined but never used  @typescript-eslint/no-unused-vars
+
+R:\Workspace sem 3\Project Hackathon\SKEP(SKILL EXCHANGE PLATFORM )\KushalX\Source code\lib\matching-algorithm.ts
+  166:44  warning  'location' is defined but never used  @typescript-eslint/no-unused-vars
+
+✖ 542 problems (69 errors, 473 warnings)
+  64 errors and 0 warnings potentially fixable with the `--fix` option.
+

@@ -1,0 +1,1 @@
+components/dashboard/quick-actions.tsx(1,1): error TS1434: Unexpected keyword or identifier.
