@@ -124,6 +124,5 @@
     "eslint-config-next": "15.5.3",
     "tailwindcss": "^4",
     "typescript": "^5"
->>>>>>> e2a20814ef51cfcc92eb71992cc36747256c65af
   }
 }
